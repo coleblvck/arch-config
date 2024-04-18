@@ -1,0 +1,80 @@
+TERMINAL TOOLS: {
+
+    - yay
+    - htop
+    - btop
+    - cmus
+    - ranger
+    - yai
+    - glow
+    - nitch, nerdfetch, unifetch
+    - neovim
+    - spicetify
+
+}
+
+FONT: Baloo
+
+TERMINAL: Alacritty::CONFIG: {Blvck}
+
+SHELL: Fish
+
+FILE MANAGER: Dolphin
+
+IMAGE VIEWER: Koko
+
+SREENSHOT TOOL: Spectacle
+
+VSCODE THEME: Vitesse
+
+JETBRAINS/ANDROID STUDIO THEME: VSCode Dark Modern
+
+REAPER THEME: Flat Madness Dark 4 Beta (With slight Tweaks)
+
+BLENDER THEME: https://github.com/Grafaffel/blender-modern-space
+
+HYPRLAND CONFIG: {}
+
+PLASMA CONFIG: {
+
+    - Global Theme:
+        Breeze Dark
+
+    - Colours:
+        Blvck (With Accent colour from wallpaper)
+
+    - Application Style:
+        Breeze
+
+    - GTK Theme:
+        Breeze
+
+    - Plasma Style:
+        Nova Color
+        
+    - Window Decorations:
+        Round-Blvck
+
+    - Icons:
+        Tokyo Night-SE
+
+    - Cursors:
+        Banana
+
+    - Splash Screen:
+        archsimpleblue
+
+    - SDDM:
+        Ant-Dark-Plasma-6
+
+}
+
+OTHER IMPORTANT APPS: {
+    
+    - easyeffects
+    - ark
+    - foliate
+    - qbittorrent
+    - vlc
+
+}

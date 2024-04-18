@@ -1,0 +1,33 @@
+# Blvck Colors For Alacritty
+
+# Default colors
+[colors.primary]
+background = '#0C0C0C'
+foreground = '#C7C7C7'
+
+# Cursor colors
+[colors.cursor]
+text    = '#FFFEFF'
+cursor  = '#FFB472'
+
+# Normal colors
+[colors.normal]
+black    = '#1b1b1b'
+red      = '#c14d53'
+green    = '#56966e'
+yellow   = '#dc8c61'
+blue     = '#6e95bd'
+magenta  = '#a56db1'
+cyan     = '#6a9f98'
+white    = '#b7b7b7'
+
+# Bright colors
+[colors.bright]
+black    = '#272727'
+red      = '#da4b52'
+green    = '#57a274'
+yellow   = '#e1956c'
+blue     = '#6fadea'
+magenta  = '#d466e9'
+cyan     = '#63b4b5'
+white    = '#a4b5b5'

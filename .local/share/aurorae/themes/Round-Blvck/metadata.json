@@ -1,0 +1,23 @@
+{
+    "KPackageStructure": "KWin/Aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "coleblvck@gmail.com",
+                "Name": "Cole Blvck"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "KWin/Aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Round-Blvck",
+        "Description" : "Round Blvck Window Decoration for Plasma 6",
+        "Id": "Round-Blvck",
+        "Version": "1.0",
+        "License": "GPL-2.0+",
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}
